@@ -1,0 +1,96 @@
+
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Megala",
+    "label": "Full Stack Trainee",
+    "image": "https://avatars.githubusercontent.com/u/102728514?v=4",
+    "summary": "Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an fullstack trainee with a reputed firm driven by technology.. ",
+    "phone no": "6374198237",
+    "email": "megalamanoharan2826@gmail.com",
+    "location": {
+      "city": "Thanjavur",
+      "countryCode": "+91"
+    },
+    "profiles": [
+      
+      {
+        "url": "https://www.linkedin.com/in/megala-manoharan-a73b35210/",
+        "username": "megala manoharan",
+        "network": "linkedin"
+      }
+{
+        "url": "https://github.com/megalamaha",
+        "username": "Megala manoharan",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "20-11-2020",
+      "startDate": "04-08-2016",
+      "area": "Electronics And Communication Engineering",
+      "studyType": "Bachelors",
+      "institution": "Kings college of engineering Anna University"
+    }
+  ],
+ 
+ 
+  "skills": [
+    {
+      "keywords": [
+        "HTML / JSX",
+        "SCSS / CSS / BEM / Styled Components",
+        "Javascript / Typescript",
+        "Java / Next",
+        "Python / Apollo"
+      ],
+     
+   ,
+  "work": [
+    {
+      ,
+      "name": "Sanmina electronics pvt ltd",
+      "location": "Sriperumbuthur",
+      "position": "Quality Analyst",
+      "startDate": "2020-08-01",
+      
+    },
+    {
+      
+      "name": "Teleperformance global india pvt ltd",
+      "location": "chennai",
+      "position": "Customer Service Associate",
+      "startDate": "2021-04-21",
+      "endDate": "2021-09-01",
+ },
+    {
+      
+      "name": "Cafs india pvt ltd",
+      "location": "chennai",
+      "position": "Customer Service Associate",
+      "startDate": "2021-10-21",
+      "endDate": "2022-03-01",
+     
+      ]
+    },
+    
+     
+  "interests": [
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Music / Jamming"
+    },
+    {
+      "name": "Reading / Writing"
+    },
+    {
+      "name": "Fostering of pets"
+    }
+  ]
+}
